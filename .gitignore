@@ -1,0 +1,6 @@
+transactions.db
+resultados.csv
+__pycache__/
+.venv/
+venv/
+*.pyc
